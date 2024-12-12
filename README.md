@@ -30,6 +30,6 @@ For backend setup, see the [Setup Guide](./setup.md).
 For information on how to use the additional features of this API, see the [Extended Usage Guide](./extended-usage.md).
 
 ## Frontend
-[Frontend Repo Link](https://github.com/The-SP/Job-Portal-Frontend)  
+[Frontend Repo Link](https://github.com/tilak-13/Hire-Nepal---Frontend)  
 You can use the link above to access the code for the React frontend of the project.
 
